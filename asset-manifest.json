@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/pst-car-booking-react/static/css/main.ad4d2d47.chunk.css",
+    "main.js": "/pst-car-booking-react/static/js/main.423bb44f.chunk.js",
+    "main.js.map": "/pst-car-booking-react/static/js/main.423bb44f.chunk.js.map",
+    "runtime-main.js": "/pst-car-booking-react/static/js/runtime-main.3d9a7e25.js",
+    "runtime-main.js.map": "/pst-car-booking-react/static/js/runtime-main.3d9a7e25.js.map",
+    "static/css/2.a6e45c16.chunk.css": "/pst-car-booking-react/static/css/2.a6e45c16.chunk.css",
+    "static/js/2.2674c63d.chunk.js": "/pst-car-booking-react/static/js/2.2674c63d.chunk.js",
+    "static/js/2.2674c63d.chunk.js.map": "/pst-car-booking-react/static/js/2.2674c63d.chunk.js.map",
+    "index.html": "/pst-car-booking-react/index.html",
+    "precache-manifest.b2d95246f9fac48cded6444d0d3fd9a1.js": "/pst-car-booking-react/precache-manifest.b2d95246f9fac48cded6444d0d3fd9a1.js",
+    "service-worker.js": "/pst-car-booking-react/service-worker.js",
+    "static/css/2.a6e45c16.chunk.css.map": "/pst-car-booking-react/static/css/2.a6e45c16.chunk.css.map",
+    "static/css/main.ad4d2d47.chunk.css.map": "/pst-car-booking-react/static/css/main.ad4d2d47.chunk.css.map",
+    "static/js/2.2674c63d.chunk.js.LICENSE.txt": "/pst-car-booking-react/static/js/2.2674c63d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/pst-car-booking-react/static/media/Poppins-Regular.41e8dead.ttf",
+    "static/media/audi.png": "/pst-car-booking-react/static/media/audi.d3d12ddc.png",
+    "static/media/bg.jpg": "/pst-car-booking-react/static/media/bg.1eb31acb.jpg",
+    "static/media/car-group.png": "/pst-car-booking-react/static/media/car-group.07abb743.png",
+    "static/media/daily-wages-driver-crop.jpg": "/pst-car-booking-react/static/media/daily-wages-driver-crop.e3dd15f8.jpg",
+    "static/media/local-tour.jpg": "/pst-car-booking-react/static/media/local-tour.5d0ed35a.jpg",
+    "static/media/long-tour.jpg": "/pst-car-booking-react/static/media/long-tour.40b80ea9.jpg",
+    "static/media/permanent-crop.jpg": "/pst-car-booking-react/static/media/permanent-crop.7ce34c5b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d9a7e25.js",
+    "static/css/2.a6e45c16.chunk.css",
+    "static/js/2.2674c63d.chunk.js",
+    "static/css/main.ad4d2d47.chunk.css",
+    "static/js/main.423bb44f.chunk.js"
+  ]
+}
